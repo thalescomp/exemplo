@@ -1,1 +1,1 @@
-let listaNomes = ["HTML", "CSS", "JavaScript", "PostgreSQL"];
+let listaNomes = ["HTML", "CSS", "JavaScript", "PostgreSQL", "React"];
